@@ -9,5 +9,7 @@ https://developer.cisco.com/meraki/api-v1/authorization/#obtaining-your-meraki-a
 ## API endpoint used
 
 [Get Organizations](https://developer.cisco.com/meraki/api-v1/get-organizations/)
+
 [Get Organizations Devices](https://developer.cisco.com/meraki/api-v1/get-organization-devices/)
+
 [Get Organization Devices Statuses](https://developer.cisco.com/meraki/api-v1/get-organization-devices-statuses/)
